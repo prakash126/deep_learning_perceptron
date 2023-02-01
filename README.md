@@ -20,3 +20,5 @@ conda activate ./env
 ```
 mkdir Research_env
 ```
+
+## Perceptron is only applicable for lineary seprable dataset. To overcome with this add more no. of hiiden layer . that's why ANN came into picture  
